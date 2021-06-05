@@ -1,3 +1,3 @@
-module github.com/HowellBP/rollthedice
+module github.com/HowellBP/roll
 
 go 1.16
