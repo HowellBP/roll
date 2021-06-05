@@ -2,6 +2,10 @@
 
 A simple dice-rolling command line program that takes two arguments: the number of dice, and the number of sides per.
 
+```
+go get github.com/HowellBP/roll
+```
+
 ## Usage
 
 ```
